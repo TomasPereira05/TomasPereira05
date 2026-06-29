@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tomás Pereira</h1>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Tomás%20Pereira&fontSize=45&fontColor=ffffff"/>
+</p>
+
 <h3 align="center">
-Final-year Computer Engineering Student @ ISEL 🇵🇹
+Final-year Computer Engineering Student @ ISEL
 </h3>
 
 <p align="center">
-Full Stack Developer • Spring Boot • Kotlin • React • PostgreSQL
+Backend • Full Stack • Spring Boot • Kotlin • React
 </p>
 
 <p align="center">
-Currently looking for a <b>Junior Software Engineer / Full Stack Developer</b> opportunity.
+Looking for a Junior Software Engineer opportunity
 </p>
 
 ---
@@ -19,9 +23,9 @@ Currently looking for a <b>Junior Software Engineer / Full Stack Developer</b> o
 - 🎓 Final-year Computer Engineering student at **ISEL**
 - 🇳🇱 Erasmus student at **Fontys University of Applied Sciences**
 - 💻 Passionate about **Backend** and **Full Stack Development**
-- 🌱 Currently improving my knowledge in **Java**, **Spring Boot** and **Software Architecture**
+- 🌱 Always learning new technologies and software engineering best practices.
 - 🚀 Interested in building scalable web applications
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **tomascorreiapereira@gmail.com**
 
 ---
 
@@ -37,6 +41,7 @@ Currently looking for a <b>Junior Software Engineer / Full Stack Developer</b> o
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=firebase" />
 <img src="https://skillicons.dev/icons?i=postgres" />
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=gradle" />
@@ -80,7 +85,7 @@ Full-stack multiplayer Poker Dice game developed with a modular client-server ar
 - Modular Architecture
 - Multiplayer Game Logic
 
-➡️ **Repository:** *(link)*
+➡️ **Repository:** *[(link)](https://github.com/TomasPereira05/Poker_Dice_Game)*
 
 ---
 
@@ -103,31 +108,42 @@ Full-stack web application for managing members, athletes, sponsors and online t
 - Authentication
 - PostgreSQL Persistence
 
-➡️ **Repository:** *(link)*
+➡️ **Repository:** *[(link)](https://github.com/TomasPereira05/project)*
 
 ---
 
-# 📈 GitHub Stats
+### ♟️ Reversi Mobile
 
-<p align="center">
+Native Android implementation of the classic Reversi (Othello) board game featuring Firebase authentication and persistent game data.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TomasPereira05&show_icons=true&theme=transparent&hide_border=true"/>
+**Technologies**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasPereira05&layout=compact&theme=transparent&hide_border=true"/>
+- Kotlin
+- Firebase
+- Android
 
-</p>
+**Highlights**
 
----
+- Native Mobile Development
+- Game Logic
+- Responsive UI
+- Interactive Gameplay
+
+➡️ **Repository:** *[[(link)](https://github.com/TomasPereira05/Reversi)]*
+
+</td>
+
+<td width="50%">
 
 # 📫 Connect with me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/TEU_LINKEDIN">
+<a href="[https://linkedin.com/in/TEU_LINKEDIN](https://www.linkedin.com/in/tom%C3%A1s-pereira-b0a203415/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:TEU_EMAIL">
+<a href="mailto:tomascorreiapereira@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
