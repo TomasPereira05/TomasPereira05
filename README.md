@@ -127,7 +127,7 @@ Native Android implementation of the classic Reversi (Othello) board game featur
 - Responsive UI
 - Interactive Gameplay
 
-➡️ **Repository:** *[[(link)](https://github.com/TomasPereira05/Reversi)]*
+➡️ **Repository:** *[(link)](https://github.com/TomasPereira05/Reversi)*
 
 </td>
 
