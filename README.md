@@ -1,16 +1,64 @@
-## Hi there 👋
+👋 Hi, I'm Tomás Pereira
 
-<!--
-**TomasPereira05/TomasPereira05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student at ISEL (Instituto Superior de Engenharia de Lisboa) with an Erasmus experience at Fontys University of Applied Sciences.
 
-Here are some ideas to get you started:
+I'm interested in Backend and Full Stack Development, with practical experience building web applications using Spring Boot, Kotlin, React and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+Languages
+Kotlin
+Java
+TypeScript
+JavaScript
+SQL
+Backend
+Spring Boot
+REST APIs
+PostgreSQL
+JDBI
+Frontend
+React
+HTML
+CSS
+Vite
+Tools
+Git
+GitHub
+Docker
+IntelliJ IDEA
+VS Code
+📌 Featured Projects
+🎲 Poker Dice
+
+Full-stack multiplayer Poker Dice web application.
+
+Technologies: Spring Boot, Kotlin, React, TypeScript, PostgreSQL
+
+Highlights
+
+REST API
+Client-server architecture
+Docker Compose
+OpenAPI documentation
+Modular architecture
+🏆 Sports Club Management Platform
+
+Full-stack web application developed for managing members, athletes, sponsors and ticketing.
+
+Technologies: Spring Boot, Kotlin, React, TypeScript, PostgreSQL
+
+Highlights
+
+Member management
+Online ticketing
+QR Code validation
+REST API
+PostgreSQL
+🎓 Education
+B.Sc. in Computer Engineering (Final Year)
+Instituto Superior de Engenharia de Lisboa (ISEL)
+Erasmus Programme
+Fontys University of Applied Sciences (Netherlands)
+📫 Contact
+LinkedIn: (link)
+Email: (email)
