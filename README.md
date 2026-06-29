@@ -7,7 +7,7 @@ Final-year Computer Engineering Student @ ISEL
 </h3>
 
 <p align="center">
-Backend • Full Stack • Spring Boot • Kotlin • React
+Backend • Full Stack • Mobile • Spring Boot • Kotlin • React
 </p>
 
 <p align="center">
