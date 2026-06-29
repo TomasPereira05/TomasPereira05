@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Tomás Pereira</h1>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Tomás%20Pereira&fontSize=45&fontColor=ffffff"/>
 </p>
