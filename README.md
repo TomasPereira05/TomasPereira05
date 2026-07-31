@@ -3,22 +3,23 @@
 </p>
 
 <h3 align="center">
-Final-year Computer Engineering Student @ ISEL
+Computer Engineering Graduate @ ISEL
 </h3>
 
 <p align="center">
-Backend • Full Stack • Mobile • Spring Boot • Kotlin • React
+Backend Development • Full Stack • Kotlin • Spring Boot • React • PostgreSQL
 </p>
 
 <p align="center">
-Looking for a Junior Software Engineer opportunity
+Open to Junior Software Engineer, Backend Developer and Full Stack Developer opportunities.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Engineering student at **ISEL**
+- 📍 Lisbon, Portugal
+- 🎓 Computer Engineering graduate from **ISEL**
 - 🇳🇱 Erasmus student at **Fontys University of Applied Sciences**
 - 💻 Passionate about **Backend** and **Full Stack Development**
 - 🌱 Always learning new technologies and software engineering best practices.
@@ -119,7 +120,8 @@ Native Android implementation of the classic Reversi (Othello) board game featur
 - Kotlin
 - Firebase
 - Android
-
+- Jetpack Compose
+  
 **Highlights**
 
 - Native Mobile Development
